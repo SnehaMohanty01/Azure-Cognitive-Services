@@ -1,5 +1,6 @@
 from dotenv
-import load_dotenvimport osfrom azure.core.credentials 
+import load_dotenv
+import osfrom azure.core.credentials 
 import AzureKeyCredentialfrom azure.ai.textanalytics
 import TextAnalyticsClient 
 def main():  

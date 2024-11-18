@@ -1,0 +1,4 @@
+AI_SERVICE_ENDPOINT="27c33fd9483948f09ff3261084641ad5"
+AI_SERVICE_KEY="https://snehaserve.cognitiveservices.azure.com/"
+QA_PROJECT_NAME=LearnFAQ
+QA_DEPLOYMENT_NAME=production
